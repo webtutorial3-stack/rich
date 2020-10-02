@@ -1,0 +1,1 @@
+web: gunicorn projectinvestment.wsgi --log-file -
